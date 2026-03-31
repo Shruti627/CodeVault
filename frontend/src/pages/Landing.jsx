@@ -101,6 +101,7 @@ function useCursorGlow() {
   }, [x, y]);
   return { sx, sy };
 }
+//set1
 
 // ─── Sub-components ───────────────────────────────────────────────────────────
 
