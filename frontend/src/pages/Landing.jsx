@@ -32,6 +32,7 @@ const staggerContainer = {
 };
 
 // ─── Static Data ─────────────────────────────────────────────────────────────
+//data
 const TECH_TAGS = [
   "React", "Node.js", "Python", "MongoDB", "Spring Boot",
   "PostgreSQL", "Docker", "AWS", "Next.js", "FastAPI",
